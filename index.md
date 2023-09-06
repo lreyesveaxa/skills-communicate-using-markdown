@@ -25,3 +25,8 @@ main (){
   system.out.print("string");
 }
 ```
+
+Adding a list 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
